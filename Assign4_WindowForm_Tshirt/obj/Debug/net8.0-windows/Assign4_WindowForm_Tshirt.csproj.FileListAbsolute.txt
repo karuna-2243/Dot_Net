@@ -1,0 +1,16 @@
+C:\Users\krush\Desktop\MVC-CRUD\Assign4_WindowForm_Tshirt\bin\Debug\net8.0-windows\Assign4_WindowForm_Tshirt.exe
+C:\Users\krush\Desktop\MVC-CRUD\Assign4_WindowForm_Tshirt\bin\Debug\net8.0-windows\Assign4_WindowForm_Tshirt.deps.json
+C:\Users\krush\Desktop\MVC-CRUD\Assign4_WindowForm_Tshirt\bin\Debug\net8.0-windows\Assign4_WindowForm_Tshirt.runtimeconfig.json
+C:\Users\krush\Desktop\MVC-CRUD\Assign4_WindowForm_Tshirt\bin\Debug\net8.0-windows\Assign4_WindowForm_Tshirt.dll
+C:\Users\krush\Desktop\MVC-CRUD\Assign4_WindowForm_Tshirt\bin\Debug\net8.0-windows\Assign4_WindowForm_Tshirt.pdb
+C:\Users\krush\Desktop\MVC-CRUD\Assign4_WindowForm_Tshirt\obj\Debug\net8.0-windows\Assign4_WindowForm_Tshirt.Form1.resources
+C:\Users\krush\Desktop\MVC-CRUD\Assign4_WindowForm_Tshirt\obj\Debug\net8.0-windows\Assign4_WindowForm_Tshirt.csproj.GenerateResource.cache
+C:\Users\krush\Desktop\MVC-CRUD\Assign4_WindowForm_Tshirt\obj\Debug\net8.0-windows\Assign4_WindowForm_Tshirt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krush\Desktop\MVC-CRUD\Assign4_WindowForm_Tshirt\obj\Debug\net8.0-windows\Assign4_WindowForm_Tshirt.AssemblyInfoInputs.cache
+C:\Users\krush\Desktop\MVC-CRUD\Assign4_WindowForm_Tshirt\obj\Debug\net8.0-windows\Assign4_WindowForm_Tshirt.AssemblyInfo.cs
+C:\Users\krush\Desktop\MVC-CRUD\Assign4_WindowForm_Tshirt\obj\Debug\net8.0-windows\Assign4_WindowForm_Tshirt.csproj.CoreCompileInputs.cache
+C:\Users\krush\Desktop\MVC-CRUD\Assign4_WindowForm_Tshirt\obj\Debug\net8.0-windows\Assign4_WindowForm_Tshirt.dll
+C:\Users\krush\Desktop\MVC-CRUD\Assign4_WindowForm_Tshirt\obj\Debug\net8.0-windows\refint\Assign4_WindowForm_Tshirt.dll
+C:\Users\krush\Desktop\MVC-CRUD\Assign4_WindowForm_Tshirt\obj\Debug\net8.0-windows\Assign4_WindowForm_Tshirt.pdb
+C:\Users\krush\Desktop\MVC-CRUD\Assign4_WindowForm_Tshirt\obj\Debug\net8.0-windows\Assign4_WindowForm_Tshirt.genruntimeconfig.cache
+C:\Users\krush\Desktop\MVC-CRUD\Assign4_WindowForm_Tshirt\obj\Debug\net8.0-windows\ref\Assign4_WindowForm_Tshirt.dll

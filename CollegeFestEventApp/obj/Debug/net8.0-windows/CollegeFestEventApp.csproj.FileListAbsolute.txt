@@ -1,0 +1,16 @@
+C:\Users\krush\Desktop\MVC-CRUD\CollegeFestEventApp\bin\Debug\net8.0-windows\CollegeFestEventApp.exe
+C:\Users\krush\Desktop\MVC-CRUD\CollegeFestEventApp\bin\Debug\net8.0-windows\CollegeFestEventApp.deps.json
+C:\Users\krush\Desktop\MVC-CRUD\CollegeFestEventApp\bin\Debug\net8.0-windows\CollegeFestEventApp.runtimeconfig.json
+C:\Users\krush\Desktop\MVC-CRUD\CollegeFestEventApp\bin\Debug\net8.0-windows\CollegeFestEventApp.dll
+C:\Users\krush\Desktop\MVC-CRUD\CollegeFestEventApp\bin\Debug\net8.0-windows\CollegeFestEventApp.pdb
+C:\Users\krush\Desktop\MVC-CRUD\CollegeFestEventApp\obj\Debug\net8.0-windows\CollegeFestEventApp.Form1.resources
+C:\Users\krush\Desktop\MVC-CRUD\CollegeFestEventApp\obj\Debug\net8.0-windows\CollegeFestEventApp.csproj.GenerateResource.cache
+C:\Users\krush\Desktop\MVC-CRUD\CollegeFestEventApp\obj\Debug\net8.0-windows\CollegeFestEventApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krush\Desktop\MVC-CRUD\CollegeFestEventApp\obj\Debug\net8.0-windows\CollegeFestEventApp.AssemblyInfoInputs.cache
+C:\Users\krush\Desktop\MVC-CRUD\CollegeFestEventApp\obj\Debug\net8.0-windows\CollegeFestEventApp.AssemblyInfo.cs
+C:\Users\krush\Desktop\MVC-CRUD\CollegeFestEventApp\obj\Debug\net8.0-windows\CollegeFestEventApp.csproj.CoreCompileInputs.cache
+C:\Users\krush\Desktop\MVC-CRUD\CollegeFestEventApp\obj\Debug\net8.0-windows\CollegeFestEventApp.dll
+C:\Users\krush\Desktop\MVC-CRUD\CollegeFestEventApp\obj\Debug\net8.0-windows\refint\CollegeFestEventApp.dll
+C:\Users\krush\Desktop\MVC-CRUD\CollegeFestEventApp\obj\Debug\net8.0-windows\CollegeFestEventApp.pdb
+C:\Users\krush\Desktop\MVC-CRUD\CollegeFestEventApp\obj\Debug\net8.0-windows\CollegeFestEventApp.genruntimeconfig.cache
+C:\Users\krush\Desktop\MVC-CRUD\CollegeFestEventApp\obj\Debug\net8.0-windows\ref\CollegeFestEventApp.dll

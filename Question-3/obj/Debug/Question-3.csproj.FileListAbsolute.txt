@@ -1,0 +1,7 @@
+C:\Users\krush\Desktop\.net-Question-3\Question-3\bin\Debug\Question-3.exe.config
+C:\Users\krush\Desktop\.net-Question-3\Question-3\bin\Debug\Question-3.exe
+C:\Users\krush\Desktop\.net-Question-3\Question-3\bin\Debug\Question-3.pdb
+C:\Users\krush\Desktop\.net-Question-3\Question-3\obj\Debug\Question-3.csproj.AssemblyReference.cache
+C:\Users\krush\Desktop\.net-Question-3\Question-3\obj\Debug\Question-3.csproj.CoreCompileInputs.cache
+C:\Users\krush\Desktop\.net-Question-3\Question-3\obj\Debug\Question-3.exe
+C:\Users\krush\Desktop\.net-Question-3\Question-3\obj\Debug\Question-3.pdb
